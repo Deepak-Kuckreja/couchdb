@@ -15,6 +15,7 @@
 """Erlang formatter for CouchDB
 Warning: this file needs to run from the CouchDB repo root.
 USAGE: ERLFMT_PATH=<path_to_erlfmt> python3 dev/format_check.py
+It checks for Erlang version
 """
 
 import os
